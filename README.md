@@ -13,7 +13,6 @@ https://github.com/user-attachments/assets/e37249b5-3338-4f48-a841-101c37ae22cb
 **How to Use:**
 
 Download and Install Power BI Desktop: If you haven't already, download and install Power BI Desktop from the official Microsoft website.
-Open the Power BI Report: Open the Swikriti salesproject(1).pbix file using Power BI Desktop.
 Explore the Dashboard: Navigate through the different tabs to explore each analysis.
 Customize Views: Utilize the interactive features such as filters and slicers to customize the view according to your needs.
 Gain Insights: Gain valuable insights into your e-commerce sales performance and make data-driven decisions to drive growth.
